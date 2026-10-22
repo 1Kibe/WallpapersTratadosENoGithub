@@ -6,8 +6,47 @@ Coleção de wallpapers (desenhos e paisagens) em WebP, com nome único, mais o 
 
 <!-- galeria:inicio -->
 
-186 wallpapers, mais recentes primeiro. Clica na miniatura pra abrir a imagem inteira.
+225 wallpapers, mais recentes primeiro. Clica na miniatura pra abrir a imagem inteira.
 
+<a href="imagens/f1671244fcd2.webp"><img src="previas/f1671244fcd2.webp" width="240" alt="f1671244fcd2"></a>
+<a href="imagens/578c5c51f36f.webp"><img src="previas/578c5c51f36f.webp" width="240" alt="578c5c51f36f"></a>
+<a href="imagens/547d6c355563.webp"><img src="previas/547d6c355563.webp" width="240" alt="547d6c355563"></a>
+<a href="imagens/76d491e7fa38.webp"><img src="previas/76d491e7fa38.webp" width="240" alt="76d491e7fa38"></a>
+<a href="imagens/fb18dbb683ab.webp"><img src="previas/fb18dbb683ab.webp" width="240" alt="fb18dbb683ab"></a>
+<a href="imagens/3071424886e8.webp"><img src="previas/3071424886e8.webp" width="240" alt="3071424886e8"></a>
+<a href="imagens/0900494f8b7e.webp"><img src="previas/0900494f8b7e.webp" width="240" alt="0900494f8b7e"></a>
+<a href="imagens/f5912a8c046a.webp"><img src="previas/f5912a8c046a.webp" width="240" alt="f5912a8c046a"></a>
+<a href="imagens/0bc28a72fdf3.webp"><img src="previas/0bc28a72fdf3.webp" width="240" alt="0bc28a72fdf3"></a>
+<a href="imagens/c567942167af.webp"><img src="previas/c567942167af.webp" width="240" alt="c567942167af"></a>
+<a href="imagens/329176b5691c.webp"><img src="previas/329176b5691c.webp" width="240" alt="329176b5691c"></a>
+<a href="imagens/0769642d48af.webp"><img src="previas/0769642d48af.webp" width="240" alt="0769642d48af"></a>
+<a href="imagens/174cefb2e54d.webp"><img src="previas/174cefb2e54d.webp" width="240" alt="174cefb2e54d"></a>
+<a href="imagens/baa804ad22b6.webp"><img src="previas/baa804ad22b6.webp" width="240" alt="baa804ad22b6"></a>
+<a href="imagens/5aed2b138fa6.webp"><img src="previas/5aed2b138fa6.webp" width="240" alt="5aed2b138fa6"></a>
+<a href="imagens/9d6caeb41806.webp"><img src="previas/9d6caeb41806.webp" width="240" alt="9d6caeb41806"></a>
+<a href="imagens/65d86050e9b3.webp"><img src="previas/65d86050e9b3.webp" width="240" alt="65d86050e9b3"></a>
+<a href="imagens/5ebdf92644ca.webp"><img src="previas/5ebdf92644ca.webp" width="240" alt="5ebdf92644ca"></a>
+<a href="imagens/74f2e9659623.webp"><img src="previas/74f2e9659623.webp" width="240" alt="74f2e9659623"></a>
+<a href="imagens/e0ce9e2215f1.webp"><img src="previas/e0ce9e2215f1.webp" width="240" alt="e0ce9e2215f1"></a>
+<a href="imagens/014637e6bb03.webp"><img src="previas/014637e6bb03.webp" width="240" alt="014637e6bb03"></a>
+<a href="imagens/b5150fdf93b5.webp"><img src="previas/b5150fdf93b5.webp" width="240" alt="b5150fdf93b5"></a>
+<a href="imagens/bb2ee6e571cb.webp"><img src="previas/bb2ee6e571cb.webp" width="240" alt="bb2ee6e571cb"></a>
+<a href="imagens/cec2b2f1fbf2.webp"><img src="previas/cec2b2f1fbf2.webp" width="240" alt="cec2b2f1fbf2"></a>
+<a href="imagens/b995fc08721d.webp"><img src="previas/b995fc08721d.webp" width="240" alt="b995fc08721d"></a>
+<a href="imagens/30ddf06e25d9.webp"><img src="previas/30ddf06e25d9.webp" width="240" alt="30ddf06e25d9"></a>
+<a href="imagens/ba90ad092d96.webp"><img src="previas/ba90ad092d96.webp" width="240" alt="ba90ad092d96"></a>
+<a href="imagens/d522dcc70be5.webp"><img src="previas/d522dcc70be5.webp" width="240" alt="d522dcc70be5"></a>
+<a href="imagens/7479d6e16d15.webp"><img src="previas/7479d6e16d15.webp" width="240" alt="7479d6e16d15"></a>
+<a href="imagens/dbe0f8ca027c.webp"><img src="previas/dbe0f8ca027c.webp" width="240" alt="dbe0f8ca027c"></a>
+<a href="imagens/c07b9bead6ba.webp"><img src="previas/c07b9bead6ba.webp" width="240" alt="c07b9bead6ba"></a>
+<a href="imagens/30bd637b873a.webp"><img src="previas/30bd637b873a.webp" width="240" alt="30bd637b873a"></a>
+<a href="imagens/c8e467cc9afc.webp"><img src="previas/c8e467cc9afc.webp" width="240" alt="c8e467cc9afc"></a>
+<a href="imagens/fb00d8b6b6a4.webp"><img src="previas/fb00d8b6b6a4.webp" width="240" alt="fb00d8b6b6a4"></a>
+<a href="imagens/a86e915471d0.webp"><img src="previas/a86e915471d0.webp" width="240" alt="a86e915471d0"></a>
+<a href="imagens/93748564cf6f.webp"><img src="previas/93748564cf6f.webp" width="240" alt="93748564cf6f"></a>
+<a href="imagens/826a7afeda4f.webp"><img src="previas/826a7afeda4f.webp" width="240" alt="826a7afeda4f"></a>
+<a href="imagens/1937525de185.webp"><img src="previas/1937525de185.webp" width="240" alt="1937525de185"></a>
+<a href="imagens/18225b67dc37.webp"><img src="previas/18225b67dc37.webp" width="240" alt="18225b67dc37"></a>
 <a href="imagens/eb2f136254e3.webp"><img src="previas/eb2f136254e3.webp" width="240" alt="eb2f136254e3"></a>
 <a href="imagens/c9558a82a6fa.webp"><img src="previas/c9558a82a6fa.webp" width="240" alt="c9558a82a6fa"></a>
 <a href="imagens/b0fc2207ec0f.webp"><img src="previas/b0fc2207ec0f.webp" width="240" alt="b0fc2207ec0f"></a>
