@@ -1,0 +1,4 @@
+adicionar wallpapers/
+*.lock
+.processar.lock
+*.log
